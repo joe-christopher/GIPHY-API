@@ -1,0 +1,42 @@
+#mainLogo {
+    margin-left: 5px;
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+}
+
+body {
+    background: url("../images/bg.jpg");
+    font-family: 'Holtwood One SC', serif;
+        
+}
+
+h2 {
+    margin-top: 100px;
+    font-family: 'Holtwood One SC', serif;
+}
+
+button {
+
+    margin-left: 15px;
+    margin-top: 15px;
+
+}
+
+#footballGifs{
+    background-color: white;
+    border-radius: 25px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+img {
+    padding-left: 10%;
+    width: 80%;
+    margin-left: 30px;
+}
+
+p {
+    font-family: 'Holtwood One SC', serif;
+    margin-left: 85px;
+}
